@@ -1,6 +1,6 @@
 
 [package]
-name = "01_results_options"
+name = "ex_hello_borrowing"
 version = "0.1.0"
 edition = "2021"
 

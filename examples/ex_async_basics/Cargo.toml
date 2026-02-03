@@ -1,6 +1,6 @@
 
 [package]
-name = "02_traits_generics"
+name = "ex_async_basics"
 version = "0.1.0"
 edition = "2021"
 

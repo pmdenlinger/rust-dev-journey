@@ -1,6 +1,6 @@
 
 [package]
-name = "00_hello_borrowing"
+name = "ex_traits_generics"
 version = "0.1.0"
 edition = "2021"
 

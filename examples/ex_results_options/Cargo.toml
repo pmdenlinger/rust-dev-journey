@@ -1,6 +1,6 @@
 
 [package]
-name = "03_async_basics"
+name = "ex_results_options"
 version = "0.1.0"
 edition = "2021"
 
