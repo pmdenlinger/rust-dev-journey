@@ -1,0 +1,1 @@
+fn main() { println!("Example: 00_hello_borrowing"); }

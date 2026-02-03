@@ -1,0 +1,1 @@
+fn main() { println!("Example: 02_traits_generics"); }

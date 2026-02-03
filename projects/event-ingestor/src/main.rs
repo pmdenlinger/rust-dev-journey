@@ -1,0 +1,1 @@
+#[tokio::main] async fn main() { println!("event-ingestor"); }
