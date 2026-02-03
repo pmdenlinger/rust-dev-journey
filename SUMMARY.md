@@ -3,7 +3,7 @@
 ## Examples (Fundamentals)
 
 - 1 – Ownership & Borrowing (`examples/ex_hello_borrowing`)
-- 2 – Results & Options (error handling) (`ex/01_results_options`)
+- 2 – Results & Options (error handling) (`examples/ex_results_options`)
 - 3 – Traits & Generics (`examples/ex_traits_generics`)
 - 4 – Async Basics (`examples/ex_async_basics`)
 - 5 – Testing & Tracing (`examples/ex_testing_tracing`)
