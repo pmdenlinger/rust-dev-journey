@@ -1,0 +1,6 @@
+edition = "2021"
+# Optional preferences; adjust to taste
+use_small_heuristics = "Max"
+format_code_in_doc_comments = true
+group_imports = "StdExternalCrate"
+imports_granularity = "Crate"

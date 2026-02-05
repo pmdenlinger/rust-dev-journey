@@ -1,0 +1,11 @@
+[build]
+# Uncomment to treat warnings as errors across the workspace (production strictness).
+# rustflags = ["-Dwarnings"]
+
+[target.'cfg(all())']
+# Faster incremental builds in dev; Cargo toggles automatically in release builds.
+# No need to configure here, but you can add target-specific linker config later.
+
+[term]
+# Always show progress bars in local dev. CI typically disables this automatically.
+color = "auto"

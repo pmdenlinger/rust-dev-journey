@@ -1,0 +1,6 @@
+# Conservative defaults
+consolidate-commits = true
+consolidate-pushes = true
+tag-name = "{{crate_name}}-v{{version}}"
+pre-release-commit-message = "chore(release): {{crate_name}} v{{version}}"
+push-remote = "origin"

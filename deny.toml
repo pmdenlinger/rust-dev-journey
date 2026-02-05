@@ -1,0 +1,16 @@
+# Minimal baseline; tune as you add crates
+[advisories]
+vulnerability = "deny"
+unmaintained = "warn"
+unsound = "deny"
+yanked = "warn"
+
+[licenses]
+unlicensed = "deny"
+allow = ["MIT", "Apache-2.0", "BSD-2-Clause", "BSD-3-Clause", "ISC"]
+# If a dependency has multiple licenses, at least one must match allowlist.
+confidence-threshold = 0.8
+
+[bans]
+multiple-versions = "warn"
+wildcards = "deny"
